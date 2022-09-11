@@ -36,8 +36,8 @@ return(
       <Navigation/>
       <Routes>
 
-         <Route path='/' element={<HomePage />} />
-         <Route path='/course/:id' element={<Coursepage />} />
+         <Route path='/al7mdllh' element={<HomePage />} />
+         <Route path='/al7mdllh/course/:id' element={<Coursepage />} />
          <Route path='*' element={<NotFound/>} />
       </Routes> 
     </BrowserRouter>

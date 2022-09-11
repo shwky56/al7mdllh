@@ -36,7 +36,7 @@ const Value = ({data} ) => {
   return (
     <>
     {data.slice(-12).map((item, i) => {
-        return (<Link to={`/course/${item.id + 1}`} ><Item  className="hover:text-gray-600"  key={item.id} >{item.title}</Item></Link>);
+        return (<Link to={`/al7mdllh/course/${item.id + 1}`} key={item.id + 1}  ><Item  className="hover:text-gray-600"  key={item.id} >{item.title}</Item></Link>);
         })}
     </>
   )

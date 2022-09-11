@@ -47,7 +47,6 @@ export const SearchValue = styled(({ className, ...props }) => (
     [`& .${tooltipClasses.tooltip}`]: {
       backgroundColor: "transparent",
       maxWidth: '100%',
-      backgroundColor: 'black',
       margin: 'auto',
       color: theme.palette.grey[900],
       borderRadius: 1,

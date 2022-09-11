@@ -68,7 +68,7 @@ export const Carousel = ({ data }) => {
             >
       
                 {data.map((item, idx) => (
-                   <Link to={`/course/${item.id + 1}`} key={item.id + 1}> <Course item={item} /></Link>
+                   <Link to={`/al7mdllh/course/${item.id + 1}`} key={item.id + 1}> <Course item={item} /></Link>
                 ))}
 
             </ItemsCarousel>
