@@ -26,13 +26,8 @@ export const Navigation = ({handleChange}) => {
             >
                 
                 <Box>
-                <Link to='/'>
-                <img
-                    src="/images/header/logo-udemy.svg"
-                    alt="Udemy"
-                    width="91"
-                    height="34"
-                />
+                <Link to='/al7mdllh'>
+                <img src="https://www.udemy.com//staticx/udemy/images/v7/logo-udemy.svg" alt="Udemy" width="91" height="34" />
                 </Link>
                 </Box>
                 
