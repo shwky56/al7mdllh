@@ -1,0 +1,25 @@
+{
+  "short_name": "Udemy",
+  "name": "Udemy-clone",
+  "icons": [
+    // {
+    //   "src": "Udemy-log.png",
+    //   "sizes": "64x64 32x32 24x24 16x16",
+    //   "type": "image/x-icon"
+    // },
+    // {
+    //   "src": "Udemy-log.png",
+    //   "type": "image/png",
+    //   "sizes": "192x192"
+    // },
+    // {
+    //   "src": "Udemy-log.png",
+    //   "type": "image/png",
+    //   "sizes": "512x512"
+    // }
+  ],
+  "start_url": "Udemy",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
