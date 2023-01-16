@@ -16,7 +16,7 @@ export const DataContext = createContext();
 function App() {
     const [data, setData] = useState(null)
     const handleChange = (e) => console.log(e.target.value)
-     const {response, error, loading} = useFetch('https://raw.githubusercontent.com/shwky56/shwky56.github.io/main/facapi/data.json');
+     const {response, error, loading} = useFetch('https://raw.githubusercontent.com/shwky56/al7mdllh/main/dp.json');
       fetch('')
       .then((e) =>  e.json())
       .then(e => console.log(e.at(1)));
